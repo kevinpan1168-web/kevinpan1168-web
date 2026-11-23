@@ -15,7 +15,6 @@
 ## 最近推进
 
 - 2026-11：搭建 GitHub 个人档案仓库 `kevinpan1168-web/kevinpan1168-web`，包含 README、个人档案、写作风格与 MIT LICENSE。
-- 2026-11：确认公开范围——只公开职业与能力信息。
 
 ## 经历时间线
 
